@@ -12,8 +12,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Live Site URL: https://imnadleeh.github.io/frontend-mentor_qr-code-component/
 
-## My process
-
 ### Built with
 
 - HTML
